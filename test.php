@@ -8,7 +8,7 @@
 
 class test
 {
-    private $test;
-
+    private $test2;
+/* *****/
 
 }
