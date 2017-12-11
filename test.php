@@ -8,5 +8,7 @@
 
 class test
 {
+    private $test;
+
 
 }
